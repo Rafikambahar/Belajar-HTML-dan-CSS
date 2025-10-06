@@ -1,0 +1,6 @@
+body {
+    background-color: bisque;
+    background-image: url(Downloads/images.jpeg);
+    background-repeat: repeat-x;
+    background-position: top center;
+}

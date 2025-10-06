@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+}
+
+h1, h2 {
+    color: aquamarine;
+}
+
+ul li a {
+    color: rgb(152, 152, 104);
+}
+
+ol li a {
+    color: brown;
+}
+
+#p1 {
+    color: blue;
+}
+
+.p2 {
+    color: rgb(80, 142, 121);
+}
+
+.cetak-tebal {
+    font-weight: bold;
+}
+
+p.cetak-tebal {
+    font-weight: bolder;
+}
